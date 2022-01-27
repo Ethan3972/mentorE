@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--    <declare-styleable name="appknot">-->
+<!--        <attr name="version" format="float"/>-->
+<!--        <attr name="pageNo" format="string"/>-->
+<!--        <attr name="filename" format="string"/>-->
+<!--        <attr name="prevpage" format="string"/>-->
+<!--        <attr name="nextpage" format="string"/>-->
+<!--        <attr name="width" format="integer"/>-->
+<!--        <attr name="height" format="integer"/>-->
+<!--        <attr name="x" format="integer"/>-->
+<!--        <attr name="y" format="integer"/>-->
+<!--    </declare-styleable>-->
+</resources>

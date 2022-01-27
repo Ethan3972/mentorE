@@ -1,0 +1,25 @@
+<appknot version="3.0">
+    <info>
+        <issue landscape="1" width="2048" height="1536" />
+    </info>
+
+    <pageFormations>
+        <pageFormation pageNo="1" filename="1xx" prevpage="50" nextpage="3" />
+        <pageFormation pageNo="2" prevpage="4" nextpage="1" />
+        <pageFormation pageNo="3" prevpage="2" nextpage="4" />
+        <pageFormation pageNo="4" prevpage="10" nextpage="7" />
+        <pageFormation pageNo="5" prevpage="50" nextpage="6" />
+        <pageFormation pageNo="6" prevpage="50" nextpage="10" />
+        <pageFormation pageNo="7" prevpage="8" nextpage="15" />
+        <pageFormation pageNo="8" prevpage="6" nextpage="9" />
+        <pageFormation pageNo="9" prevpage="-1" nextpage="10" />
+        <pageFormation pageNo="10" prevpage="-1" nextpage="3" />
+        <pageFormation pageNo="15" prevpage="7" nextpage="-1" />
+        <pageFormation pageNo="50" prevpage="5" nextpage="1" />
+    </pageFormations>
+
+    <pageObjects>
+        <page index="1">
+        </page>
+    </pageObjects>
+</appknot>
